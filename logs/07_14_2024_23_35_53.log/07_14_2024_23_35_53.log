@@ -1,0 +1,15 @@
+[ 2024-07-14 23:35:53,366 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-07-14 23:35:53,369 ] 97 werkzeug - INFO -  * Debugger PIN: 337-959-993
+[ 2024-07-14 23:37:39,877 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:37:39] "GET / HTTP/1.1" 200 -
+[ 2024-07-14 23:37:40,020 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:37:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-07-14 23:37:45,153 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:37:45] "[33mGET /home HTTP/1.1[0m" 404 -
+[ 2024-07-14 23:37:49,534 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:37:49] "[33mGET /home.html HTTP/1.1[0m" 404 -
+[ 2024-07-14 23:38:21,239 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:38:21] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-07-14 23:38:42,538 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:38:42] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-07-14 23:40:12,460 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:40:12] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-07-14 23:40:36,647 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:40:36] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-07-14 23:40:36,727 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:40:36] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-07-14 23:40:36,751 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:40:36] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-07-14 23:40:36,827 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:40:36] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-07-14 23:40:36,873 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Jul/2024 23:40:36] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-07-14 23:45:15,980 ] 97 werkzeug - INFO -  * Detected change in 'e:\\new folder\\student-performance-analysis\\src\\pipeline\\predict_pipeline.py', reloading
